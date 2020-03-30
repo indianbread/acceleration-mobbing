@@ -4,3 +4,6 @@
 # Build
 **/bin/
 **/obj/
+.DS_Store
+string_calc_pair_prog/.DS_Store
+string_calc_test/.DS_Store
